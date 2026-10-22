@@ -12,83 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naufa =====
-[1]Naufa       |09:00:30 | 21-10-2026| login OK @naufaroselyn | score=1620 rank=4364
-[1]Naufa       |09:00:30 | 21-10-2026| serverTime=2026-10-21T09:00:30.000Z local=2026-10-21T09:00:30.882Z
+[1]Naufa       |08:21:48 | 22-10-2026| login OK @naufaroselyn | score=1690 rank=4258
+[1]Naufa       |08:21:48 | 22-10-2026| serverTime=2026-10-22T08:21:48.000Z local=2026-10-22T08:21:48.574Z
 --> [1]Naufa menjalankan: Claim Daily
-[1]Naufa       |09:00:32 | 21-10-2026| daily: OK +10 poin score=1630
---> [1]Naufa menjalankan: Auto All Tasks (6 pending)
-[1]Naufa       |09:00:35 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naufaroselyn/status/2112830971247620789
-[1]Naufa       |09:00:35 | 21-10-2026| delay 10s...
-[1]Naufa       |09:00:49 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naufaroselyn/status/2112830931713644527
-[1]Naufa       |09:00:49 | 21-10-2026| delay 10s...
-[1]Naufa       |09:01:02 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naufaroselyn/status/2112831236693923064
-[1]Naufa       |09:01:02 | 21-10-2026| delay 10s...
-[1]Naufa       |09:01:15 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naufaroselyn/status/2112830933551707551
-[1]Naufa       |09:01:15 | 21-10-2026| delay 10s...
-[1]Naufa       |09:01:28 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/naufaroselyn/status/2112831251517522333
-[1]Naufa       |09:01:28 | 21-10-2026| delay 10s...
-[1]Naufa       |09:01:43 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Naufa       |09:01:43 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naufa       |09:01:45 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/naufaroselyn/status/2112831367572222115
+[1]Naufa       |08:21:49 | 22-10-2026| daily: OK +10 poin score=1700
+--> [1]Naufa menjalankan: Auto All Tasks (7 pending)
+[1]Naufa       |08:21:51 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183726887742374
+[1]Naufa       |08:21:51 | 22-10-2026| delay 10s...
+[1]Naufa       |08:22:03 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183663867512463
+[1]Naufa       |08:22:03 | 22-10-2026| delay 10s...
+[1]Naufa       |08:22:15 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183701368437127
+[1]Naufa       |08:22:15 | 22-10-2026| delay 10s...
+[1]Naufa       |08:22:28 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183609036691672
+[1]Naufa       |08:22:28 | 22-10-2026| delay 10s...
+[1]Naufa       |08:22:40 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183863918756472
+[1]Naufa       |08:22:40 | 22-10-2026| delay 10s...
+[1]Naufa       |08:22:52 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183985545428290
+[1]Naufa       |08:22:52 | 22-10-2026| delay 10s...
+[1]Naufa       |08:23:04 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/naufaroselyn/status/2113183889078251255
+[1]Naufa       |08:23:04 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naufa       |08:23:06 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/naufaroselyn/status/2113183818157143858
 --> [1]Naufa menjalankan: Watch Anime
-[1]Naufa       |09:01:46 | 21-10-2026| watch: 1 video belum completed: bakeru-ikesou-jan-mv
-[1]Naufa       |09:01:46 | 21-10-2026| watch [1/1] farming bakeru-ikesou-jan-mv...
-[1]Naufa       |09:01:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: mulai dari 0 (record 61.4s diabaikan)
-[1]Naufa       |09:01:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:01:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:41 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:02:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.42/181.00s)
-[1]Naufa       |09:03:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 35% (64.76/181.00s)
-[1]Naufa       |09:03:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 38% (70.52/181.00s)
-[1]Naufa       |09:03:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.63/181.00s)
-[1]Naufa       |09:03:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.44/181.00s)
-[1]Naufa       |09:03:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (88.60/181.00s)
-[1]Naufa       |09:03:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.72/181.00s)
-[1]Naufa       |09:03:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.83/181.00s)
-[1]Naufa       |09:03:47 | 21-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.47/181.00s)
-[1]Naufa       |09:03:54 | 21-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.60/181.00s)
-[1]Naufa       |09:04:00 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.29/181.00s)
-[1]Naufa       |09:04:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.04/181.00s)
-[1]Naufa       |09:04:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 71% (130.24/181.00s)
-[1]Naufa       |09:04:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 75% (135.94/181.00s)
-[1]Naufa       |09:04:26 | 21-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.58/181.00s)
-[1]Naufa       |09:04:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.14/181.00s)
-[1]Naufa       |09:04:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.04/181.00s)
-[1]Naufa       |09:04:45 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (158.74/181.00s)
-[1]Naufa       |09:04:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 91% (164.72/181.00s)
-[1]Naufa       |09:04:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.72/181.00s)
+[1]Naufa       |08:23:07 | 22-10-2026| watch: semua video sudah completed
 --> [1]Naufa menjalankan: Read Article
-[1]Naufa       |09:04:54 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Naufa       |09:04:55 | 21-10-2026| mint eligibility: {"userId":"1696756644364034048","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Naufa       |09:05:02 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Naufa       |08:23:08 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Naufa       |08:23:09 | 22-10-2026| mint eligibility: {"userId":"1696756644364034048","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Naufa       |08:23:16 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Naufa       |08:23:25 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Naufa menjalankan: Quiz Anime
-[1]Naufa       |09:05:05 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Naufa       |09:05:05 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Naufa       |09:05:05 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Naufa       |09:05:05 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Naufa       |09:05:05 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Naufa       |09:05:05 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Naufa       |08:23:27 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Naufa       |08:23:27 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Naufa       |08:23:27 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Naufa       |08:23:27 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Naufa       |08:23:27 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Naufa       |08:23:27 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Naufa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naufa       |09:05:08 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Naufa       |09:05:08 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Naufa       |09:05:08 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naufa       |09:05:08 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naufa       |08:23:29 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Naufa       |08:23:30 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Naufa       |08:23:30 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naufa       |08:23:30 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naufa menjalankan: Claim Missions
-[1]Naufa       |09:05:09 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Naufa       |09:05:09 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Naufa       |09:05:09 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Naufa       |08:23:31 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Naufa       |08:23:31 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Naufa       |08:23:31 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naufa menjalankan: Check Eligibility
 
 --- eligibility [1]Naufa ---
-  @naufaroselyn | score=1620 rank=4364
-  tasks    [###################-] 74/80
+  @naufaroselyn | score=1690 rank=4258
+  tasks    [##################--] 77/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -99,14 +70,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naufa menjalankan: Read Manga
-[1]Naufa       |09:05:14 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Naufa       |08:23:35 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Naufa menjalankan: Get Gift
-[1]Naufa       |09:05:15 | 21-10-2026| gift: 0/4 belum diterima
+[1]Naufa       |08:23:35 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Naufa menjalankan: Setup Profile
-[1]Naufa       |09:05:16 | 21-10-2026| profile: bio="https://x.com/naufaroselyn" fav=amato rewardAt=1791684673
-[1]Naufa       |09:05:16 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Naufa       |08:23:36 | 22-10-2026| profile: bio="https://x.com/naufaroselyn" fav=amato rewardAt=1791684673
+[1]Naufa       |08:23:36 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Naufa menjalankan: Bind Wallet
-[1]Naufa       |09:05:17 | 21-10-2026| wallet: sudah terikat 9fFZ4hC91U... (solana)
+[1]Naufa       |08:23:36 | 22-10-2026| wallet: sudah terikat 9fFZ4hC91U... (solana)
 
 == RINGKASAN ==
-- Naufa: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Naufa: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
