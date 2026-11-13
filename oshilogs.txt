@@ -12,39 +12,35 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Naufa =====
-[1]Naufa       |12:13:57 | 12-11-2026| login OK @naufaroselyn | score=3110 rank=2452
-[1]Naufa       |12:13:57 | 12-11-2026| serverTime=2026-11-12T12:13:57.000Z local=2026-11-12T12:13:57.204Z
+[1]Naufa       |11:52:50 | 13-11-2026| login OK @naufaroselyn | score=3150 rank=2402
+[1]Naufa       |11:52:50 | 13-11-2026| serverTime=2026-11-13T11:52:50.000Z local=2026-11-13T11:52:50.973Z
 --> [1]Naufa menjalankan: Claim Daily
-[1]Naufa       |12:13:59 | 12-11-2026| daily: OK +10 poin score=3120
---> [1]Naufa menjalankan: Auto All Tasks (3 pending)
-[1]Naufa       |12:14:02 | 12-11-2026| [1/3] 85466610 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/naufaroselyn/status/2120852203401987494
-[1]Naufa       |12:14:02 | 12-11-2026| delay 10s...
-[1]Naufa       |12:14:14 | 12-11-2026| [2/3] 7c6c4a6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/naufaroselyn/status/2120852134636593674
-[1]Naufa       |12:14:14 | 12-11-2026| delay 10s...
-[1]Naufa       |12:14:27 | 12-11-2026| [3/3] fdd13fc3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/naufaroselyn/status/2120852156575786140
-[1]Naufa       |12:14:27 | 12-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Naufa       |12:14:29 | 12-11-2026| [1/1] 85466610 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2120732283770650 | proof=https://x.com/naufaroselyn/status/2120852387776823122
+[1]Naufa       |11:52:53 | 13-11-2026| daily: OK +10 poin score=3160
+--> [1]Naufa menjalankan: Auto All Tasks (1 pending)
+[1]Naufa       |11:52:55 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212105520571029 | proof=https://x.com/naufaroselyn/status/2121209158049437736
+[1]Naufa       |11:52:55 | 13-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Naufa       |11:52:57 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121055205710295 | proof=https://x.com/naufaroselyn/status/2121209155027762119
 --> [1]Naufa menjalankan: Watch Anime
-[1]Naufa       |12:14:30 | 12-11-2026| watch: semua video sudah completed
+[1]Naufa       |11:52:58 | 13-11-2026| watch: semua video sudah completed
 --> [1]Naufa menjalankan: Read Article
-[1]Naufa       |12:14:32 | 12-11-2026| news: 34/34 artikel selesai dibaca
-[1]Naufa       |12:14:33 | 12-11-2026| mint eligibility: {"userId":"1696756644364034048","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Naufa       |12:14:33 | 12-11-2026| news: semua artikel sudah dibaca
+[1]Naufa       |11:52:59 | 13-11-2026| news: 34/34 artikel selesai dibaca
+[1]Naufa       |11:53:00 | 13-11-2026| mint eligibility: {"userId":"1696756644364034048","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Naufa       |11:53:00 | 13-11-2026| news: semua artikel sudah dibaca
 --> [1]Naufa menjalankan: Quiz Anime
 --> [1]Naufa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Naufa       |12:14:36 | 12-11-2026| music: kedua misi sudah tercapai, stop
-[1]Naufa       |12:14:36 | 12-11-2026| mission music-listens-10: sudah diklaim
-[1]Naufa       |12:14:36 | 12-11-2026| mission music-minutes-30: sudah diklaim
-[1]Naufa       |12:14:36 | 12-11-2026| mission anime-completed-3: sudah diklaim
+[1]Naufa       |11:53:02 | 13-11-2026| music: kedua misi sudah tercapai, stop
+[1]Naufa       |11:53:03 | 13-11-2026| mission music-listens-10: sudah diklaim
+[1]Naufa       |11:53:03 | 13-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naufa       |11:53:03 | 13-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naufa menjalankan: Claim Missions
-[1]Naufa       |12:14:37 | 12-11-2026| mission music-listens-10: sudah diklaim
-[1]Naufa       |12:14:37 | 12-11-2026| mission music-minutes-30: sudah diklaim
-[1]Naufa       |12:14:37 | 12-11-2026| mission anime-completed-3: sudah diklaim
+[1]Naufa       |11:53:04 | 13-11-2026| mission music-listens-10: sudah diklaim
+[1]Naufa       |11:53:04 | 13-11-2026| mission music-minutes-30: sudah diklaim
+[1]Naufa       |11:53:04 | 13-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Naufa menjalankan: Check Eligibility
 
 --- eligibility [1]Naufa ---
-  @naufaroselyn | score=3110 rank=2452
-  tasks    [########------------] 2/5
+  @naufaroselyn | score=3150 rank=2402
+  tasks    [#############-------] 2/3
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +51,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Naufa menjalankan: Read Manga
-[1]Naufa       |12:14:41 | 12-11-2026| manga: 0/13 chapter belum completed
+[1]Naufa       |11:53:08 | 13-11-2026| manga: 0/13 chapter belum completed
 --> [1]Naufa menjalankan: Get Gift
-[1]Naufa       |12:14:43 | 12-11-2026| gift: 3/12 belum diterima
-[1]Naufa       |12:14:44 | 12-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Naufa       |12:14:47 | 12-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Naufa       |12:14:50 | 12-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naufa       |11:53:10 | 13-11-2026| gift: 3/12 belum diterima
+[1]Naufa       |11:53:11 | 13-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naufa       |11:53:14 | 13-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Naufa       |11:53:17 | 13-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Naufa menjalankan: Setup Profile
-[1]Naufa       |12:14:52 | 12-11-2026| profile: bio="https://x.com/naufaroselyn" fav=amato rewardAt=1791684673
-[1]Naufa       |12:14:52 | 12-11-2026| profile: bonus sudah diklaim, skip
+[1]Naufa       |11:53:20 | 13-11-2026| profile: bio="https://x.com/naufaroselyn" fav=amato rewardAt=1791684673
+[1]Naufa       |11:53:20 | 13-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Naufa menjalankan: Bind Wallet
-[1]Naufa       |12:14:53 | 12-11-2026| wallet: sudah terikat 9fFZ4hC91U... (solana)
+[1]Naufa       |11:53:20 | 13-11-2026| wallet: sudah terikat 9fFZ4hC91U... (solana)
 
 == RINGKASAN ==
-- Naufa: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Naufa: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
